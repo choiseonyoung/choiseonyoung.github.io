@@ -1,0 +1,60 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>CSY</title>
+  <subtitle>hello !</subtitle>
+  <updated>2023-06-08T20:39:34+09:00</updated>
+  <author>
+    <name>choiseonyoung</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 choiseonyoung </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>첫 번째 포스팅</title>
+    <link href="http://localhost:4000/posts/%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85/" rel="alternate" type="text/html" title="첫 번째 포스팅" />
+    <published>2023-06-08T06:33:00+09:00</published>
+  
+    <updated>2023-06-08T06:33:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85/</id>
+    <content src="http://localhost:4000/posts/%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%8F%AC%EC%8A%A4%ED%8C%85/" />
+    <author>
+      <name>choiseonyoung</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Demo" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      안녕하세용
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
